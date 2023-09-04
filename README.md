@@ -22,5 +22,7 @@ Kannan S is the creative mind behind this project. Connect with him on LinkedIn 
 
 Thank you for exploring our repository. We're confident our Tamil Nadu Mess digital application will transform your dining experience. Reach out for inquiries or feedback. Cheers to convenient and delightful dining! 🍽🌶
 
-![Mess_Template](https://github.com/Kannan-Sureshsasi/TamilNadu-Mess/assets/138990724/ed4977c9-a387-4e05-a3e7-4ded13e4fe93)
-![Mess_Template](https://github.com/Kannan-Sureshsasi/TamilNadu-Mess/assets/138990724/b56659f9-028a-4993-bc3e-03adb8fcd8b1)
+![Default_Template](https://github.com/Kannan-Sureshsasi/TamilNadu-Mess/assets/138990724/bc15a475-c184-4b9f-936e-4939cf2119ef)
+![Mess_Template](https://github.com/Kannan-Sureshsasi/TamilNadu-Mess/assets/138990724/601d3cf8-dfd9-4d8f-98ca-1a5406fb4212)
+![Food_Oder_Template](https://github.com/Kannan-Sureshsasi/TamilNadu-Mess/assets/138990724/c44c02cb-143d-43ac-af83-04b103c58c20)
+![Thank_Template](https://github.com/Kannan-Sureshsasi/TamilNadu-Mess/assets/138990724/b85988a1-584f-4956-b367-ef62c243317d)
